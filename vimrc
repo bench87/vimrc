@@ -44,6 +44,8 @@ Plugin 'altercation/vim-colors-solarized'
 Plugin 'Shougo/unite.vim'
 " vimproc.vim : Interactive Command Execution
 Plugin 'Shougo/vimproc.vim'
+" scala plugin
+Plugin 'derekwyatt/vim-scala'
 
 " All Plugins to be added between vundle#begin and vundle#end
 call vundle#end()
